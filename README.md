@@ -1,5 +1,5 @@
 <center>
-<h1> 🏚️JOB SEARCH PORTAL SEARCH PORTAL</h1>
+<h1> 🏚️JOB SEARCH PORTALL</h1>
 </center>
 <center>
 <a href="Java url">
